@@ -9,7 +9,7 @@
   - 🧬 Soft Skills: Adoro trabalhar em equipe;
 </p>
 <p align="left">
-  - ⚡ Hard Skills: HTML5, CSS3, Bootstrap (Até o momento);
+  - ⚡ Hard Skills: HTML5, CSS3 (Até o momento);
 </p>
 <p align="left">
   - 💼 Trabalho: A procura de uma oportunidade como Junior;
